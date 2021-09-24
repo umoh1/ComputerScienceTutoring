@@ -5,7 +5,7 @@ https://umohitsolutions.notion.site/Tutoring-Semester-Project-Database-N-J-Umoh-
 Welcome to my ongoing tutoring semester project! A Notion resource database with study tools (notes, study guides, practice problems, etc) to help my tutees succeed in these popular & high fail rate classes. **NOTE**: Although this database & materials are meant for ESU classes, it is open for viewing by other students as well. 
 
 ### Background
-As a tutor, each semester we are tasked with creating a set of study tools/guides for students in our downtime (any time we are on the clock, but not tutoring students). Since I'm a freelancer for Notion Databases, I decided that making one with a multitude of tools that students in my classes can access at anytime would be a great way to assist every one of my tutees succeed. 
+As a tutor, each semester we are tasked with creating a set of study tools/guides for students in our downtime (any time we are on the clock, but not tutoring students). Since I'm a freelancer for Notion Databases, I decided that making one with a multitude of tools that students in my classes can access at anytime would be a great way to assist every one of my tutees succeed, while also meeting my semester requirement. 
 
 
 ### Tutored Classes
