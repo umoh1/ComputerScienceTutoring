@@ -29,3 +29,7 @@ In the database, there is a page dedicated to each of the classes above, each eq
 
 ### Using Notion
 Notion may seem a bit intimidating at first, but I have made this database fairly simple to access and navigate. If you want to  learn about Notion to adopt it for your own use, you can learn more about it at https://www.notion.so/help/start-here. I will update this block throughout the semester, as I make more progress on the database.
+
+### Contact
+As a student, developer, & freelancer, feedback is crucial for my growth. If you ever have any feedback or potential features that you would like to communicate to me, please contact me at any of the following mediums below: 
+- https://www.umohitsolutions.org/contact-us
